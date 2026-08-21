@@ -1,4 +1,4 @@
-# 🌐 Multi‑App Interactive Website
+# 🌐 Multi‑App (5) Interactive Apps using JavaScript
 
 A collection of interactive, browser‑based applications showcasing interactive:
 - JavaScript programming
